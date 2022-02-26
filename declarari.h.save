@@ -1,0 +1,27 @@
+#ifndef DECLARARI_H_INCLUDED
+#define DECLARARI_H_INCLUDED
+
+typedef struct
+{
+    char nume[50],prenume[50];
+    int admin;
+    int gen;
+    int masina_id=-1;
+
+}persoana;
+
+typedef struct
+{
+    char nume[50],marca[50];
+    int pret, nrstoc;
+}masina;
+
+
+masina car[30];
+int nrmasini;
+
+persoana pers[20];
+int nrpers;
+float euro;
+
+#endif // DECLARARI_H_INCLUDED

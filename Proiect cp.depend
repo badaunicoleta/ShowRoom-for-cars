@@ -1,0 +1,553 @@
+# depslib dependency file v1.0
+1575916363 source:c:\users\clota\onedrive\desktop\proiect cp xd\proiect cp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"admin.h"
+	<string.h>
+	"client.h"
+
+1575803112 c:\users\clota\onedrive\desktop\proiect cp xd\proiect cp\admin.h
+	"declarari.h"
+
+1575916812 source:c:\users\clota\onedrive\desktop\proiect cp xd\proiect cp\admin.c
+	"admin.h"
+	<stdio.h>
+	<stdlib.h>
+
+1575831650 c:\users\clota\onedrive\desktop\proiect cp xd\proiect cp\client.h
+	"declarari.h"
+
+1575916812 source:c:\users\clota\onedrive\desktop\proiect cp xd\proiect cp\client.c
+	"client.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1575828882 c:\users\clota\onedrive\desktop\proiect cp xd\proiect cp\declarari.h
+
+1575925056 source:c:\users\laurus\desktop\proiect cp\admin.c
+	"admin.h"
+	<stdio.h>
+	<stdlib.h>
+
+1575803112 c:\users\laurus\desktop\proiect cp\admin.h
+	"declarari.h"
+
+1575828882 c:\users\laurus\desktop\proiect cp\declarari.h
+
+1575924759 source:c:\users\laurus\desktop\proiect cp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"admin.h"
+	<string.h>
+	"client.h"
+	"testing.h"
+
+1575831650 c:\users\laurus\desktop\proiect cp\client.h
+	"declarari.h"
+
+1575924727 source:c:\users\laurus\desktop\proiect cp\client.c
+	"client.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"testing.h"
+
+1575924727 c:\users\laurus\desktop\proiect cp\testing.h
+
+1575924909 source:c:\users\laurus\desktop\proiect cp\testing.c
+	<stdio.h>
+	<string.h>
+
+1576003681 source:c:\users\nico\desktop\proiect laur\proiect cp\admin.c
+	"admin.h"
+	<stdio.h>
+	<stdlib.h>
+
+1575803112 c:\users\nico\desktop\proiect laur\proiect cp\admin.h
+	"declarari.h"
+
+1576003430 c:\users\nico\desktop\proiect laur\proiect cp\declarari.h
+
+1576003430 source:c:\users\nico\desktop\proiect laur\proiect cp\client.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"client.h"
+	"testing.h"
+
+1575831650 c:\users\nico\desktop\proiect laur\proiect cp\client.h
+	"declarari.h"
+
+1575924727 c:\users\nico\desktop\proiect laur\proiect cp\testing.h
+
+1576003588 source:c:\users\nico\desktop\proiect laur\proiect cp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"admin.h"
+	<string.h>
+	"client.h"
+	"testing.h"
+
+1575924909 source:c:\users\nico\desktop\proiect laur\proiect cp\testing.c
+	<stdio.h>
+	<string.h>
+
+1576003681 source:c:\users\laurus\desktop\proiect laur\proiect cp\admin.c
+	"admin.h"
+	<stdio.h>
+	<stdlib.h>
+
+1576109554 c:\users\laurus\desktop\proiect laur\proiect cp\admin.h
+	"declarari.h"
+
+1576109139 c:\users\laurus\desktop\proiect laur\proiect cp\declarari.h
+
+1576158795 source:c:\users\laurus\desktop\proiect laur\proiect cp\client.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	"client.h"
+	"testing.h"
+	"admin.h"
+
+1576110051 c:\users\laurus\desktop\proiect laur\proiect cp\client.h
+	"declarari.h"
+
+1576159240 c:\users\laurus\desktop\proiect laur\proiect cp\testing.h
+
+1576158795 source:c:\users\laurus\desktop\proiect laur\proiect cp\testing.c
+	<stdio.h>
+	<string.h>
+
+1576110101 source:c:\users\laurus\desktop\proiect laur\proiect cp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"client.h"
+	"testing.h"
+	"admin.h"
+	"login.h"
+
+1576163029 source:c:\users\laurus\desktop\proiect laur\proiect cp\login.c
+	"login.h"
+	"admin.h"
+	"client.h"
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	"declarari.h"
+
+1576159239 c:\users\laurus\desktop\proiect laur\proiect cp\login.h
+	<stdbool.h>
+
+1576248688 source:c:\users\clota\onedrive\desktop\proiect cp aproape gata. trebe sa imi las amprenta\client.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	"client.h"
+	"testing.h"
+	"admin.h"
+
+1576248078 c:\users\clota\onedrive\desktop\proiect cp aproape gata. trebe sa imi las amprenta\client.h
+	"declarari.h"
+
+1576247199 c:\users\clota\onedrive\desktop\proiect cp aproape gata. trebe sa imi las amprenta\declarari.h
+
+1576159240 c:\users\clota\onedrive\desktop\proiect cp aproape gata. trebe sa imi las amprenta\testing.h
+
+1576187267 c:\users\clota\onedrive\desktop\proiect cp aproape gata. trebe sa imi las amprenta\admin.h
+	"declarari.h"
+
+1576247221 source:c:\users\clota\onedrive\desktop\proiect cp aproape gata. trebe sa imi las amprenta\login.c
+	"login.h"
+	"admin.h"
+	"client.h"
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	"declarari.h"
+
+1576159239 c:\users\clota\onedrive\desktop\proiect cp aproape gata. trebe sa imi las amprenta\login.h
+	<stdbool.h>
+
+1576110101 source:c:\users\clota\onedrive\desktop\proiect cp aproape gata. trebe sa imi las amprenta\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"client.h"
+	"testing.h"
+	"admin.h"
+	"login.h"
+
+1576158795 source:c:\users\clota\onedrive\desktop\proiect cp aproape gata. trebe sa imi las amprenta\testing.c
+	<stdio.h>
+	<string.h>
+
+1576249113 source:c:\users\clota\onedrive\desktop\proiect cp aproape gata. trebe sa imi las amprenta\admin.c
+	"admin.h"
+	"login.h"
+	"testing.h"
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1576238800 source:c:\users\laurus\downloads\proiect cp aproape gata. trebe sa imi las amprenta\admin.c
+	"admin.h"
+	"login.h"
+	"testing.h"
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1576187267 c:\users\laurus\downloads\proiect cp aproape gata. trebe sa imi las amprenta\admin.h
+	"declarari.h"
+
+1576109139 c:\users\laurus\downloads\proiect cp aproape gata. trebe sa imi las amprenta\declarari.h
+
+1576238646 source:c:\users\laurus\downloads\proiect cp aproape gata. trebe sa imi las amprenta\login.c
+	"login.h"
+	"admin.h"
+	"client.h"
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	"declarari.h"
+
+1576159239 c:\users\laurus\downloads\proiect cp aproape gata. trebe sa imi las amprenta\login.h
+	<stdbool.h>
+
+1576187268 c:\users\laurus\downloads\proiect cp aproape gata. trebe sa imi las amprenta\client.h
+	"declarari.h"
+
+1576110101 source:c:\users\laurus\downloads\proiect cp aproape gata. trebe sa imi las amprenta\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"client.h"
+	"testing.h"
+	"admin.h"
+	"login.h"
+
+1576159240 c:\users\laurus\downloads\proiect cp aproape gata. trebe sa imi las amprenta\testing.h
+
+1576158795 source:c:\users\laurus\downloads\proiect cp aproape gata. trebe sa imi las amprenta\testing.c
+	<stdio.h>
+	<string.h>
+
+1576187502 source:c:\users\laurus\downloads\proiect cp aproape gata. trebe sa imi las amprenta\client.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	"client.h"
+	"testing.h"
+	"admin.h"
+
+1576187502 source:c:\users\laurus\desktop\proiect cp aproape gata. trebe sa imi las amprenta\client.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	"client.h"
+	"testing.h"
+	"admin.h"
+
+1576187268 c:\users\laurus\desktop\proiect cp aproape gata. trebe sa imi las amprenta\client.h
+	"declarari.h"
+
+1576109139 c:\users\laurus\desktop\proiect cp aproape gata. trebe sa imi las amprenta\declarari.h
+
+1576159240 c:\users\laurus\desktop\proiect cp aproape gata. trebe sa imi las amprenta\testing.h
+
+1576187267 c:\users\laurus\desktop\proiect cp aproape gata. trebe sa imi las amprenta\admin.h
+	"declarari.h"
+
+1576238646 source:c:\users\laurus\desktop\proiect cp aproape gata. trebe sa imi las amprenta\login.c
+	"login.h"
+	"admin.h"
+	"client.h"
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	"declarari.h"
+
+1576159239 c:\users\laurus\desktop\proiect cp aproape gata. trebe sa imi las amprenta\login.h
+	<stdbool.h>
+
+1576110101 source:c:\users\laurus\desktop\proiect cp aproape gata. trebe sa imi las amprenta\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"client.h"
+	"testing.h"
+	"admin.h"
+	"login.h"
+
+1576158795 source:c:\users\laurus\desktop\proiect cp aproape gata. trebe sa imi las amprenta\testing.c
+	<stdio.h>
+	<string.h>
+
+1576239528 source:c:\users\laurus\desktop\proiect cp aproape gata. trebe sa imi las amprenta\admin.c
+	"admin.h"
+	"login.h"
+	"testing.h"
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1576492624 source:c:\users\clota\onedrive\desktop\proiect cp\admin.c
+	"admin.h"
+	"login.h"
+	"testing.h"
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1576492378 c:\users\clota\onedrive\desktop\proiect cp\admin.h
+	"declarari.h"
+
+1576492624 c:\users\clota\onedrive\desktop\proiect cp\declarari.h
+
+1576442448 c:\users\clota\onedrive\desktop\proiect cp\login.h
+	<stdbool.h>
+
+1576159240 c:\users\clota\onedrive\desktop\proiect cp\testing.h
+
+1576492624 source:c:\users\clota\onedrive\desktop\proiect cp\login.c
+	"login.h"
+	"admin.h"
+	"client.h"
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	"declarari.h"
+
+1576248078 c:\users\clota\onedrive\desktop\proiect cp\client.h
+	"declarari.h"
+
+1576110101 source:c:\users\clota\onedrive\desktop\proiect cp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"client.h"
+	"testing.h"
+	"admin.h"
+	"login.h"
+
+1576492624 source:c:\users\clota\onedrive\desktop\proiect cp\testing.c
+	<stdio.h>
+	<string.h>
+
+1576492624 source:c:\users\clota\onedrive\desktop\proiect cp\client.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"client.h"
+	"testing.h"
+	"admin.h"
+	"login.h"
+
+1576249113 source:c:\users\nico\desktop\proiect cp\admin.c
+	"admin.h"
+	"login.h"
+	"testing.h"
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1576187267 c:\users\nico\desktop\proiect cp\admin.h
+	"declarari.h"
+
+1576247199 c:\users\nico\desktop\proiect cp\declarari.h
+
+1576425232 c:\users\nico\desktop\proiect cp\login.h
+	<stdbool.h>
+
+1576159240 c:\users\nico\desktop\proiect cp\testing.h
+
+1576249794 source:c:\users\nico\desktop\proiect cp\client.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	"client.h"
+	"testing.h"
+	"admin.h"
+
+1576248078 c:\users\nico\desktop\proiect cp\client.h
+	"declarari.h"
+
+1576425232 source:c:\users\nico\desktop\proiect cp\login.c
+	"login.h"
+	"admin.h"
+	"client.h"
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	"declarari.h"
+
+1576110101 source:c:\users\nico\desktop\proiect cp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"client.h"
+	"testing.h"
+	"admin.h"
+	"login.h"
+
+1576158795 source:c:\users\nico\desktop\proiect cp\testing.c
+	<stdio.h>
+	<string.h>
+
+1576442653 source:c:\users\laurus\desktop\proiect\proiect cp\admin.c
+	"admin.h"
+	"login.h"
+	"testing.h"
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1576442653 c:\users\laurus\desktop\proiect\proiect cp\admin.h
+	"declarari.h"
+
+1576247199 c:\users\laurus\desktop\proiect\proiect cp\declarari.h
+
+1576442448 c:\users\laurus\desktop\proiect\proiect cp\login.h
+	<stdbool.h>
+
+1576159240 c:\users\laurus\desktop\proiect\proiect cp\testing.h
+
+1576442603 source:c:\users\laurus\desktop\proiect\proiect cp\client.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"client.h"
+	"testing.h"
+	"admin.h"
+	"login.h"
+
+1576248078 c:\users\laurus\desktop\proiect\proiect cp\client.h
+	"declarari.h"
+
+1576110101 source:c:\users\laurus\desktop\proiect\proiect cp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"client.h"
+	"testing.h"
+	"admin.h"
+	"login.h"
+
+1576158795 source:c:\users\laurus\desktop\proiect\proiect cp\testing.c
+	<stdio.h>
+	<string.h>
+
+1576443305 source:c:\users\laurus\desktop\proiect\proiect cp\login.c
+	"login.h"
+	"admin.h"
+	"client.h"
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	"declarari.h"
+
+1576492624 source:c:\users\nico\desktop\ac-ut\proiect cp\admin.c
+	"admin.h"
+	"login.h"
+	"testing.h"
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1576492378 c:\users\nico\desktop\ac-ut\proiect cp\admin.h
+	"declarari.h"
+
+1576492624 c:\users\nico\desktop\ac-ut\proiect cp\declarari.h
+
+1576442448 c:\users\nico\desktop\ac-ut\proiect cp\login.h
+	<stdbool.h>
+
+1576159240 c:\users\nico\desktop\ac-ut\proiect cp\testing.h
+
+1576492624 source:c:\users\nico\desktop\ac-ut\proiect cp\login.c
+	"login.h"
+	"admin.h"
+	"client.h"
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	"declarari.h"
+
+1576248078 c:\users\nico\desktop\ac-ut\proiect cp\client.h
+	"declarari.h"
+
+1576110101 source:c:\users\nico\desktop\ac-ut\proiect cp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"client.h"
+	"testing.h"
+	"admin.h"
+	"login.h"
+
+1576492624 source:c:\users\nico\desktop\ac-ut\proiect cp\testing.c
+	<stdio.h>
+	<string.h>
+
+1576494883 source:c:\users\nico\desktop\ac-ut\proiect cp\client.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"client.h"
+	"testing.h"
+	"admin.h"
+	"login.h"
+

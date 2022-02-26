@@ -1,0 +1,73 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include "admin.h"
+#include <string.h>
+#include "client.h"
+
+int  citire_persoane()/// da numarul de afisare ca si return
+{
+    FILE *fp;
+    int i;
+    int nr;
+    fp=fopen("persoane.in","r+");
+    fscanf(fp,"%d",&nr);
+    for(i=0; i<nr; i++)
+    {
+        fscanf(fp,"%s",pers[i].prenume);
+
+        fscanf(fp,"%s",pers[i].nume);
+
+        fscanf(fp,"%d",&pers[i].admin);
+
+        fscanf(fp,"%d",&pers[i].gen);
+        fscanf(fp,"%d",&pers[i].masina_id);
+        
+
+    }
+    fclose(fp);
+    return nr;
+}
+
+int  citire_masina()
+{
+    FILE *fp;
+    int i;
+    int nr;
+    fp=fopen("masini.in","r+");
+    fscanf(fp,"%f",&euro);
+    fscanf(fp,"%d",&nr);
+    for(i=0; i<nr; i++)
+    {
+        fscanf(fp,"%s",car[i].nume);
+
+        fscanf(fp,"%s",car[i].marca);
+
+        fscanf(fp,"%d",&car[i].pret);
+
+        fscanf(fp,"%d",&car[i].nrstoc);
+
+
+    }
+    return nr;
+    fclose(fp);
+}
+
+
+
+int main()
+{
+    nrpers=citire_persoane();
+    nrmasini=citire_masina();
+    persoana m;
+    m=pers[2];
+    //afisare_admin(m,nrpers);
+    //afisare_admin(m,nrpers);
+    //afisare_car();
+
+    afisare_admin(m,nrpers);
+
+
+
+
+    return 0;
+}

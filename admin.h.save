@@ -1,0 +1,34 @@
+#ifndef ADMIN_H_INCLUDED
+#define ADMIN_H_INCLUDED
+typedef struct
+{
+    char nume[50],prenume[50];
+    int admin;
+    int gen;
+
+}persoana;
+
+typedef struct
+{
+    char nume[50],marca[50];
+    int pret, nrstoc;
+}masina;
+
+masina car[30];
+int nrmasini;
+
+persoana pers[20];
+int nrpers;
+
+void afisare_admin(persoana m,int nrpers);
+int  citire_persoane();
+persoana citire();
+void afisare_useri(persoana pers[20],int nrpers);///pers- vector de persoane
+void alegere(int optiune,persoana m,int nrpers);
+void acordare_admin();
+void revocare_admin();
+void adaugare_masina();
+void afisare_car();
+void suplimentare_stoc();
+void pret_masina();
+#endif // ADMIN_H_INCLUDED
